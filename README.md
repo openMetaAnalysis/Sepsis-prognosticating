@@ -18,8 +18,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (not available)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://github.com/openMetaAnalysis/Sepsis-prognosticating-with-decision-aids
-/blob/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Sepsis-prognosticating-with-decision-aids/master/forest-plots/Outcome-Primary.png "Principle results")
 
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Sepsis-prognosticating-with-decision-aids
