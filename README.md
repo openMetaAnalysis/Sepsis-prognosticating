@@ -29,7 +29,7 @@ References:
 
 ### Systematic review(s)
 ####Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+None
 
 ### Diagnostic test assessments
 #### New studies *not* included in the most recent review above
@@ -37,10 +37,15 @@ References:
 2. Freund et al. Prognostic Accuracy of Sepsis-3 Criteria for In-Hospital Mortality Among Patients With Suspected Infection Presenting to the Emergency Department. JAMA 2017. Avaialble at https://jamanetwork.com/journals/jama/article-abstract/2598268
 3. Raith et al. Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA 2017. Available at https://jamanetwork.com/journals/jama/article-abstract/2598267 
 
-#### Trial(s) included in the review above
+#### Studies included in the review above
 None
 
-####Trials excluded - selected list of important trials
+#### Studies undergoing assessment
+1. Williams JM, Greenslade JH, McKenzie JV, Chu K, Brown AF, Lipman J. SIRS, qSOFA and organ dysfunction: insights from a prospective database of emergency department patients with infection. Chest. 2016 Nov 19. PMID: [27876592](http://pubmed.gov/27876592)
+2. April MD, Aguirre J, Tannenbaum LI, Moore T, Pingree A, Thaxton RE, Sessions DJ, Lantry JH. Sepsis Clinical Criteria in Emergency Department Patients Admitted to an Intensive Care Unit: An External Validation Study of Quick Sequential Organ Failure Assessment. J Emerg Med. 2016 Nov 4. PMID: [27823893](http://pubmed.gov/27823893)
+3. Giamarellos-Bourboulis EJ, Tsaganos T, Tsangaris I, Lada M, Routsi C, Sinapidis D, et al; Hellenic Sepsis Study Group. Validation of the new Sepsis-3 definitions: proposal for improvement in early risk identification. Clin Microbiol Infect. 2016 Nov 14. PubMed PMID: [27856268](http://pubmed.gov/27856268)
+
+####Studies excluded - selected list of important trials
 
 ####Cited by
 This repository is cited by:
