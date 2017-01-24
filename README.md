@@ -2,9 +2,9 @@ Prognosticating in sepsis with decision aids
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that both qSOFA and SIRS *are* better than chance in predicting mortality. qSOFA is is more accurate based on the area under the ROC curve (aROC), but SIRS is more sensitive. Heterogeneity of results as measured by I2 was '[low](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at  less than 10%. 
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer studies excluded may be listed at the end of the references. 
 
 This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
