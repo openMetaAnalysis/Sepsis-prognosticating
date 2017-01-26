@@ -51,7 +51,7 @@ None
 ####Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Spinal stenosis medical therapy. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. (pending)
+1. WikiDoc contributors.Sepsis natural history, complications and prognosis. WikiDoc. Jan 26, 2017. Available at: http://www.wikidoc.org/index.php/Sepsis_natural_history,_complications_and_prognosis#cite_note-7. Accessed January 26, 2017.
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
