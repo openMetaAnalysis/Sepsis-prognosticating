@@ -33,7 +33,8 @@ None
 
 ### Diagnostic test assessments
 #### New studies *not* included in the most recent review above
-1. Freund et al. Prognostic Accuracy of Sepsis-3 Criteria for In-Hospital Mortality Among Patients With Suspected Infection Presenting to the Emergency Department. JAMA 2017. Avaialble at https://jamanetwork.com/journals/jama/article-abstract/2598268
+1. Freund Y, Lemachatti N, Krastinova E, Van Laer M, Claessens YE, Avondo A,et al; French Society of Emergency Medicine
+Collaborators Group.. Prognostic Accuracy of Sepsis-3 Criteria for In-Hospital Mortality Among Patients With Suspected Infection Presenting to the Emergency Department. JAMA. 2017 Jan 17;317(3):301-308. PMID: [28114554](http://pubmed.gov/28114554).
 2. Williams JM, Greenslade JH, McKenzie JV, Chu K, Brown AF, Lipman J. SIRS, qSOFA and organ dysfunction: insights from a prospective database of emergency department patients with infection. Chest. 2016 Nov 19. PMID: [27876592](http://pubmed.gov/27876592)
 3. April MD, Aguirre J, Tannenbaum LI, Moore T, Pingree A, Thaxton RE, Sessions DJ, Lantry JH. Sepsis Clinical Criteria in Emergency Department Patients Admitted to an Intensive Care Unit: An External Validation Study of Quick Sequential Organ Failure Assessment. J Emerg Med. 2016 Nov 4. PMID: [27823893](http://pubmed.gov/27823893)
 4. Churpek MM, Snyder A, Han X, Sokol S, Pettit N, Howell MD, Edelson DP. qSOFA, SIRS, and Early Warning Scores for Detecting Clinical Deterioration in Infected Patients Outside the ICU. Am J Respir Crit Care Med. 2016 Sep 20. PMID: [27649072](http://pubmed.gov/27649072)
@@ -45,7 +46,7 @@ None
 None
 
 ####Studies excluded - selected list of important studies
-1. Raith et al. Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA 2017. Available at https://jamanetwork.com/journals/jama/article-abstract/2598267 *Numbers could not be extracted from publication.*
+1. Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, Pilcher DV; Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE). Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA. 2017 Jan 17;317(3):290-300. PMID: [28114553](http://pubmed.gov/28114553) *Numbers could not be extracted from publication.*
 2. Giamarellos-Bourboulis EJ, Tsaganos T, Tsangaris I, Lada M, Routsi C, Sinapidis D, et al; Hellenic Sepsis Study Group. Validation of the new Sepsis-3 definitions: proposal for improvement in early risk identification. Clin Microbiol Infect. 2016 Nov 14. PubMed PMID: [27856268](http://pubmed.gov/27856268) *All patients met SIRS criteria*
 
 ####Cited by
