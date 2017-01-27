@@ -1,4 +1,4 @@
-Study_ID,         Year,PMID,tp,fp,fn,tn,Test,Setting
+Study,Year,PMID,TP,FP,FN,TN,Test,Setting
 Freund (non-ICU),2017,28114554,52,166,22,639,qSOFA,non-ICU
 Freund (non-ICU),2017,28114554,69,584,5,221,SIRS,non-ICU
 April (ICU),2016,27823893,38,171,1,4,SIRS,ICU
