@@ -1,0 +1,18 @@
+Study_ID,         Year,PMID,tp,fp,fn,tn,Test,Setting
+Freund (non-ICU),2017,28114554,52,166,22,639,qSOFA,non-ICU
+Freund (non-ICU),2017,28114554,69,584,5,221,SIRS,non-ICU
+April (ICU),2016,27823893,38,171,1,4,SIRS,ICU
+April (ICU),2016,27823893,35,127,4,48,qSOFA,ICU
+Williams (non-ICU),2016,27876592,253,3923,74,4621,SIRS,ICU
+Williams (non-ICU),2016,27876592,164,741,163,7803,qSOFA,ICU
+Seymour (ICU),2016,26903335,1173,5514,116,1129,SIRS,ICU
+Seymour (non-ICU),2016,26903335,1207,22623,679,42013,SIRS,non-ICU
+Seymour (ICU),2016,26903335,1186,5381,103,1262,qSOFA,ICU
+Seymour (non-ICU),2016,26903335,1037,10342,849,54294,qSOFA,non-ICU
+Churpek (non-ICU),2016,27649072,1133,10595,516,18433,qSOFA,non-ICU
+Churpek (non-ICU),2016,27649072,1547,25258,102,3770,SIRS,non-ICU
+Kaukonen (ICU),2015,25776936,23577,52000,2136,8292,SIRS,ICU
+,,,,,,,To make forest plot:,
+,,,,,,,Click 'Raw' view of this file,
+,,,,,,,Copy rows of data without column names,
+,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
