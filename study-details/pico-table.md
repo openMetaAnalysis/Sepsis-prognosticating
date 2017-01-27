@@ -1,7 +1,10 @@
 #PICO Table
 
-Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
+Study        | PMID                                    |Patients/population/problem|Test(s)|Comparison|Outcome|
 ------------ | --------------------------------------|---------------------------|------------|----------|-------|
-| Richard    |[25572383](http://pubmed.gov/25572383) |Adults with mean arterial pressure < 65 mm Hg before(?) fluids | Protocol based on PICCO | Usual care | Mortality at 28 days|
-| Kuan       |[26475246](http://pubmed.gov/26475246) |Adults with lactate level >= 3 mmol/L                          | Protocol based on NICOM | Usual care |Mortality at 28 days|
-| ProCESS    |[24635773](http://pubmed.gov/24635773) |Adults with lactate level >= 5 mmol/L or systolic pressure < 90 mm Hg after 1000 ml fluid challenge| Protocol based on shock index |Usual care|Mortality at 60 days|
+| Freund      |[28114554](http://pubmed.gov/28114554) |Adults in emergency department with suspected infection| SIRS/qSOFA | Usual care | Mortality in hospital|
+| April       |[27823893](http://pubmed.gov/27823893)|Adults in emergency department admitted to intensive care with suspected infection | SIRS/qSOFA | Usual care |Mortality in hospital|
+| Williams    |[27876592](http://pubmed.gov/27876592) |Adults in emergency department admitted with suspected infection | SIRS/qSOFA |Usual care|Mortality in hospitals|
+| Seymour     |[26903335](http://pubmed.gov/26903335)|Hospitalized adults with blood culture and antibiotics ordered | SIRS/qSOFA |Usual care|Mortality in hospital|
+| Churpek     |[27649072](http://pubmed.gov/27649072)|Hospitalized adults not in intensive care who are suspected of infection | SIRS/qSOFA |Usual care|Mortality in hospital|
+| Kaukonen    |[25776936](http://pubmed.gov/25776936) |Adults in intensive care with severe sepsis | SIRS/qSOFA |Usual care|Mortality in hospital|
