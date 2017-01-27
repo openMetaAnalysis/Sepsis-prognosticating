@@ -11,11 +11,11 @@ This repository is a limited review and contains outcomes data only without PICO
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (not available)
+* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
 * [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (not available)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 * [Meta-regressions](../../tree/master/metaregression) ([source data](../../tree/master/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (not available)
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Sepsis-prognosticating-with-decision-aids/master/forest-plots/Outcome-Primary.png "Principle results")
