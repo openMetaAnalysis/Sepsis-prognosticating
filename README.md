@@ -46,8 +46,9 @@ None
 None
 
 ####Studies excluded - selected list of important studies
-1. Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, Pilcher DV; Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE). Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA. 2017 Jan 17;317(3):290-300. PMID: [28114553](http://pubmed.gov/28114553) *Numbers could not be extracted from publication.*
+1. Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, Pilcher DV; Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE). Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA. 2017 Jan 17;317(3):290-300. PMID: [28114553](http://pubmed.gov/28114553) *Could not extract data for two-by-two table from publication.*
 2. Giamarellos-Bourboulis EJ, Tsaganos T, Tsangaris I, Lada M, Routsi C, Sinapidis D, et al; Hellenic Sepsis Study Group. Validation of the new Sepsis-3 definitions: proposal for improvement in early risk identification. Clin Microbiol Infect. 2016 Nov 14. PubMed PMID: [27856268](http://pubmed.gov/27856268) *All patients met SIRS criteria*
+3. Nguyen HB, Rivers EP, Knoblich BP, Jacobsen G, Muzzin A, Ressler JA, Tomlanovich MC. Early lactate clearance is associated with improved outcome in severe sepsis and septic shock. Crit Care Med. 2004 PMID: [15286537](http://pubmed.gov/15286537) *Could not extract data for two-by-two table from publication.*
 
 ####Cited by
 This repository is cited by:
