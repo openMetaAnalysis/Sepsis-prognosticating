@@ -2,7 +2,9 @@ Prognosticating in sepsis with decision aids
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that both [qSOFA](http://qsofa.org/calc.php) and [SIRS](http://www.wikidoc.org/index.php/Systemic_inflammatory_response_syndrome) *are* better than chance in predicting mortality. qSOFA is dends to be more accurate pverall due to improved specificity and SIRS tends to be more sensitive, but neither comparison is statistically significant. Both decision aids lose sensitivity and gain specificity when studied in settings outside of the ICU with low rates of death. Heterogeneity is hard to measure in diagnostic tests assessments, but appears to be higher for qSOFA.
+**Clinical summary:** This meta-analysis suggests that both [qSOFA](http://qsofa.org/calc.php) and [SIRS](http://www.wikidoc.org/index.php/Systemic_inflammatory_response_syndrome) *are* better than chance in predicting mortality. qSOFA is dends to be more accurate pverall due to improved specificity and SIRS tends to be more sensitive, but neither comparison is statistically significant. Both decision aids lose sensitivity and gain specificity when studied in settings outside of the ICU with low rates of death. Heterogeneity is hard to measure in diagnostic tests assessments, but appears to be higher for qSOFA. 
+
+We encourage authors to publish in accordance to [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/). We had to exclude multiple original studies were excluded due to not reporting a cross tabulation of results in their publication. This data is a recommended element by STARD.
 
 [Keep current with this topic](Keep-up.md)
 
