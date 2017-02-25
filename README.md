@@ -4,11 +4,14 @@ A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that both [qSOFA](http://qsofa.org/calc.php) and [SIRS](http://www.wikidoc.org/index.php/Systemic_inflammatory_response_syndrome) *are* better than chance in predicting mortality. qSOFA is dends to be more accurate pverall due to improved specificity and SIRS tends to be more sensitive, but neither comparison is statistically significant. Both decision aids lose sensitivity and gain specificity when studied in settings outside of the ICU with low rates of death. Heterogeneity is hard to measure in diagnostic tests assessments, but appears to be higher for qSOFA.
 
+[Keep current with this topic](Keep-up.md)
+
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer studies excluded may be listed at the end of the references. 
 
 This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
-See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
+* [Evidence search](evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
