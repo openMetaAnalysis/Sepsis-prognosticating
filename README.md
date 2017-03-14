@@ -25,10 +25,6 @@ This repository is a limited review and contains outcomes data only without PICO
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Sepsis-prognosticating-with-decision-aids/master/forest-plots/Outcome-Primary.png "Principle results")
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Sepsis-prognosticating-with-decision-aids
-/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
-
 References:
 ----------------------------------
 
