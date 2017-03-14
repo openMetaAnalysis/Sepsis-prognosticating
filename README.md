@@ -2,7 +2,7 @@ Prognosticating in sepsis with decision aids
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that both [qSOFA](http://qsofa.org/calc.php) and [SIRS](http://www.wikidoc.org/index.php/Systemic_inflammatory_response_syndrome) *are* better than chance in predicting mortality. qSOFA is dends to be more accurate pverall due to improved specificity and SIRS tends to be more sensitive, but neither comparison is statistically significant. Both decision aids lose sensitivity and gain specificity when studied in settings outside of the ICU with low rates of death. Heterogeneity is hard to measure in diagnostic tests assessments, but appears to be higher for qSOFA. 
+**Clinical summary:** This meta-analysis suggests that both [qSOFA](http://qsofa.org/calc.php) and [SIRS](http://www.wikidoc.org/index.php/Systemic_inflammatory_response_syndrome) *are* better than chance in predicting mortality. qSOFA is dends to be more accurate pverall due to improved specificity and SIRS tends to be more sensitive, but neither comparison is statistically significant. Both decision aids lose sensitivity and gain specificity when studied in settings outside of the ICU with low rates of death. Heterogeneity is difficult to measure in diagnostic tests assessments, but appears to be higher for qSOFA. 
 
 We encourage authors to publish in accordance to [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/). We had to exclude multiple original studies were excluded due to not reporting a cross tabulation of results in their publication. This data is a recommended element by STARD.
 
@@ -17,7 +17,7 @@ This repository is a limited review and contains outcomes data only without PICO
 
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (not available)
+* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 * [Meta-regressions](../../tree/master/metaregression) ([source data](../../tree/master/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconciliation-tables)
