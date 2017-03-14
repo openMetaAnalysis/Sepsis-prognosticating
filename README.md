@@ -29,7 +29,7 @@ References:
 ----------------------------------
 
 ### Systematic review(s)
-####Most recent review at time of last revision of this repository
+#### Most recent review at time of last revision of this repository
 None
 
 ### Diagnostic test assessments
@@ -46,13 +46,13 @@ None
 #### Studies undergoing assessment
 None
 
-####Studies excluded - selected list of important studies
+#### Studies excluded - selected list of important studies
 1. Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, Pilcher DV; Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE). Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA. 2017 Jan 17;317(3):290-300. PMID: [28114553](http://pubmed.gov/28114553) *Could not extract data for two-by-two table from publication. This data is a recommended element in the reporting of diagnostic and predictive studies according to the [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/)*
 2. Giamarellos-Bourboulis EJ, Tsaganos T, Tsangaris I, Lada M, Routsi C, Sinapidis D, et al; Hellenic Sepsis Study Group. Validation of the new Sepsis-3 definitions: proposal for improvement in early risk identification. Clin Microbiol Infect. 2016 Nov 14. PubMed PMID: [27856268](http://pubmed.gov/27856268) *All patients met SIRS criteria*
 3. Nguyen HB, Rivers EP, Knoblich BP, Jacobsen G, Muzzin A, Ressler JA, Tomlanovich MC. Early lactate clearance is associated with improved outcome in severe sepsis and septic shock. Crit Care Med. 2004 PMID: [15286537](http://pubmed.gov/15286537) *Could not extract data for two-by-two table from publication. This data is a recommended element in the reporting of diagnostic and predictive studies according to the [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/)*
 4. Singer AJ, Ng J, Thode HC Jr, Spiegel R, Weingart S. Quick SOFA Scores Predict Mortality in Adult Emergency Department Patients With and Without Suspected Infection. Ann Emerg Med. 2017 Jan 19. pii: S0196-0644(16)31219-7. doi: 10.1016/j.annemergmed.2016.10.007. PMID: [28110990](http://pubmed.gov/28110990) *Could not extract data for two-by-two table from publication. This data is a recommended element in the reporting of diagnostic and predictive studies according to the [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/)*
 
-####Cited by
+#### Cited by
 This repository is cited by:
 
 1. WikiDoc contributors.Sepsis natural history, complications and prognosis. WikiDoc. Jan 26, 2017. Available at: http://www.wikidoc.org/index.php/Sepsis_natural_history,_complications_and_prognosis#cite_note-7. Accessed January 26, 2017.
