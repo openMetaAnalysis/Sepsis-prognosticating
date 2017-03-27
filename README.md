@@ -1,4 +1,4 @@
-Prognosticating in sepsis with decision aids
+Sepsis prognosticating
 ============================================
 A living systematic review
 
@@ -23,7 +23,7 @@ This repository is a limited review and contains outcomes data only without PICO
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Sepsis-prognosticating-with-decision-aids/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Sepsis-prognosticating/master/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
