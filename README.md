@@ -19,7 +19,7 @@ This repository is a limited review and contains outcomes data only without PICO
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)
 * [Risk of bias assessment](../master/files/study-details/risk-of-bias.md) (under construction)
-* [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
+* [Forest plots](../master/files/forest-plots) ([source data](../master/files/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
