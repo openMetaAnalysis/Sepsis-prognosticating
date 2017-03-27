@@ -6,7 +6,7 @@ A living systematic review
 
 We encourage authors to publish in accordance to [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/). We had to exclude multiple original studies were excluded due to not reporting a cross tabulation of results in their publication. This data is a recommended element by STARD.
 
-[Keep current with this topic](Keep-up.md)
+[Keep current with this topic](../master/files/searching/Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer studies excluded may be listed at the end of the references. 
 
