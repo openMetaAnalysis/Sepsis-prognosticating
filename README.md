@@ -30,7 +30,7 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-None
+1. Liu D, Su L, Han G, Yan P, Xie L. Prognostic Value of Procalcitonin in Adult Patients with Sepsis: A Systematic Review and Meta-Analysis. PLoS One. 2015 Jun 15;10(6):e0129450. doi: 10.1371/journal.pone.0129450. PMID: [26076027](http://pubmed.gov/26076027)
 
 ### Diagnostic test assessments
 #### New studies *not* included in the most recent review above
