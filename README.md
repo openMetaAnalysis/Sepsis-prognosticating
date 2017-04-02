@@ -44,7 +44,7 @@ None
 None
 
 #### Studies undergoing assessment
-1. Schuetz P, Birkhahn R, Sherwin R, et al. Serial Procalcitonin Predicts Mortality in Severe Sepsis Patients: Results From the Multicenter Procalcitonin MOnitoring SEpsis (MOSES) Study. Crit Care Med. 2017 Mar 2. doi: 10.1097/CCM.0000000000002321. PMID: 28257335
+None
 
 #### Studies excluded - selected list of important studies
 1. Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, Pilcher DV; Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE). Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA. 2017 Jan 17;317(3):290-300. PMID: [28114553](http://pubmed.gov/28114553) *Could not extract data for two-by-two table from publication. This data is a recommended element in the reporting of diagnostic and predictive studies according to the [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/)*
