@@ -44,7 +44,8 @@ References:
 None
 
 #### Studies undergoing assessment
-None
+1. Hwang SY, Jo IJ, Lee SU, Lee TR, Yoon H, Cha WC, Sim MS, Shin TG. Low Accuracy of Positive qSOFA Criteria for Predicting 28-Day mortality in Critically Ill Septic Patients During the Early Period After Emergency Department Presentation. Ann Emerg Med. 2017 Jun 29. pii: S0196-0644(17)30658-3. doi: 10.1016/j.annemergmed.2017.05.022. PMID: [28669551](http://pubmed.gov/28669551).
+
 
 #### Studies excluded - selected list of important studies
 1. Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, Pilcher DV; Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE). Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA. 2017 Jan 17;317(3):290-300. PMID: [28114553](http://pubmed.gov/28114553) *Could not extract data for two-by-two table from publication. This data is a recommended element in the reporting of diagnostic and predictive studies according to the [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/)*
