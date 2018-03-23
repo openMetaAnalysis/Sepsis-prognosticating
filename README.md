@@ -44,6 +44,7 @@ References:
 None
 
 #### Studies undergoing assessment
+1. Serafim R, Gomes JA, Salluh J, Póvoa P. A Comparison of the Quick-SOFA and Systemic Inflammatory Response Syndrome Criteria for the Diagnosis of Sepsis and Prediction of Mortality: A Systematic Review and Meta-Analysis. Chest. 2018 Mar;153(3):646-655. doi: 10.1016/j.chest.2017.12.015. Epub 2017 Dec 28. PMID: [29289687](http://pubmed.gov/29289687).
 1. Fernando SM, Tran A, Taljaard M, Cheng W, Rochwerg B, Seely AJE, Perry JJ. Prognostic Accuracy of the Quick Sequential Organ Failure Assessment for Mortality in Patients With Suspected Infection: A Systematic Review and Meta-analysis. Ann Intern Med. 2018 Feb 6. doi: 10.7326/M17-2820. PMID: [29404582](http://pubmed.gov/29404582)
 2. Song JU, Sin CK, Park HK, Shim SR, Lee J. Performance of the quick Sequential (sepsis-related) Organ Failure Assessment score as a prognostic tool in infected patients outside the intensive care unit: a systematic review and meta-analysis. Crit Care. 2018 Feb 6;22(1):28. doi: 10.1186/s13054-018-1952-x. PMID: [29409518](http://pubmed.gov/29409518)
 3. Hwang SY, Jo IJ, Lee SU, Lee TR, Yoon H, Cha WC, Sim MS, Shin TG. Low Accuracy of Positive qSOFA Criteria for Predicting 28-Day mortality in Critically Ill Septic Patients During the Early Period After Emergency Department Presentation. Ann Emerg Med. 2017 Jun 29. pii: S0196-0644(17)30658-3. doi: 10.1016/j.annemergmed.2017.05.022. PMID: [28669551](http://pubmed.gov/28669551).
