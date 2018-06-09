@@ -30,7 +30,8 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Liu D, Su L, Han G, Yan P, Xie L. Prognostic Value of Procalcitonin in Adult Patients with Sepsis: A Systematic Review and Meta-Analysis. PLoS One. 2015 Jun 15;10(6):e0129450. doi: 10.1371/journal.pone.0129450. PMID: [26076027](http://pubmed.gov/26076027)
+1. Fernando SM, Tran A, Taljaard M, Cheng W, Rochwerg B, Seely AJE, Perry JJ. Prognostic Accuracy of the Quick Sequential Organ Failure Assessment for Mortality in Patients With Suspected Infection: A Systematic Review and Meta-analysis. Ann Intern Med. 2018 Feb 20;168(4):266-275. doi: [10.7326/M17-2820](http://doi.org/10.7326/M17-2820). PMID: [29404582](http://pubmed.gov/29404582).
+2. Liu D, Su L, Han G, Yan P, Xie L. Prognostic Value of Procalcitonin in Adult Patients with Sepsis: A Systematic Review and Meta-Analysis. PLoS One. 2015 Jun 15;10(6):e0129450. doi: 10.1371/journal.pone.0129450. PMID: [26076027](http://pubmed.gov/26076027)
 
 ### Diagnostic test assessments
 #### New studies *not* included in the most recent review above
@@ -52,6 +53,7 @@ None
 5. Jouffroy R, Saade A, Carpentier A, Ellouze S, Philippe P, Idialisoa R, Carli P, Vivien B. Triage of Septic Patients Using qSOFA Criteria at the SAMU Regulation: A Retrospective Analysis. Prehosp Emerg Care. 2017 Aug 9:1-7. doi: 10.1080/10903127.2017.1347733. PMID: [28792256](http://pubmed.gov/28792256).
 6. Bahloul M, Baccouch N, Chtara K, Turki M, Turki O, Hamida CB, Chelly H, Ayedi F, Chaari A, Bouaziz M. Value of Serum Cholinesterase Activity in the Diagnosis of Septic Shock Due to Bacterial Infections. J Intensive Care Med. 2017 Jun;32(5):346-352. doi: [10.1177/0885066616636549](http://doi.org/10.1177/0885066616636549). PMID: [26951579](http://pubmed.gov/26951579).
 7. Fang X, Wang Z, Yang J, Cai H, Yao Z, Li K, Fang Q. Clinical Evaluation of Sepsis-1 and Sepsis-3 in the ICU. Chest. 2018 May;153(5):1169-1176. doi:10.1016/j.chest.2017.06.037. PMID: [28711593](http://pubmed.gov/28711593)
+8. Rudd KE, Seymour CW, Aluisio AR, et al. Association of the Quick Sequential (Sepsis-Related) Organ Failure Assessment (qSOFA) Score With Excess Hospital Mortality in Adults With Suspected Infection in Low- and Middle-Income Countries. JAMA. 2018 May 20. pii: 2681801. doi: [10.1001/jama.2018.6229](http://doi.org/10.1001/jama.2018.6229)
 
 #### Studies excluded - selected list of important studies
 1. Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, Pilcher DV; Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE). Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit. JAMA. 2017 Jan 17;317(3):290-300. PMID: [28114553](http://pubmed.gov/28114553) *Could not extract data for two-by-two table from publication. This data is a recommended element in the reporting of diagnostic and predictive studies according to the [Standards for Reporting Diagnostic Accuracy (STARD)](http://www.equator-network.org/reporting-guidelines/stard/)*
