@@ -31,7 +31,7 @@ References:
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
 1. Fernando SM, Tran A, Taljaard M, Cheng W, Rochwerg B, Seely AJE, Perry JJ. Prognostic Accuracy of the Quick Sequential Organ Failure Assessment for Mortality in Patients With Suspected Infection: A Systematic Review and Meta-analysis. Ann Intern Med. 2018 Feb 20;168(4):266-275. doi: [10.7326/M17-2820](http://doi.org/10.7326/M17-2820). PMID: [29404582](http://pubmed.gov/29404582).
-2. Liu D, Su L, Han G, Yan P, Xie L. Prognostic Value of Procalcitonin in Adult Patients with Sepsis: A Systematic Review and Meta-Analysis. PLoS One. 2015 Jun 15;10(6):e0129450. doi: 10.1371/journal.pone.0129450. PMID: [26076027](http://pubmed.gov/26076027)
+2. Liu D, Su L, Han G, Yan P, Xie L. Prognostic Value of Procalcitonin in Adult Patients with Sepsis: A Systematic Review and Meta-Analysis. PLoS One. 2015 Jun 15;10(6):e0129450. doi: 10.1371/journal.pone.0129450. PMID: [26076027](http://pubmed.gov/26076027) **The Liu review is more uptodate that this repository**.
 
 ### Diagnostic test assessments
 #### New studies *not* included in the most recent review above
