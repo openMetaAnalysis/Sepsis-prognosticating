@@ -35,6 +35,7 @@ References:
 
 ### Diagnostic test assessments
 #### New studies *not* included in the most recent review above
+1. Redfern OC, Smith GB, Prytherch DR, Meredith P, Inada-Kim M, Schmidt PE. A Comparison of the Quick Sequential (Sepsis-Related) Organ Failure Assessment Score and the National Early Warning Score in Non-ICU Patients With/Without Infection. Crit Care Med. 2018 Dec;46(12):1923-1933. doi: 10.1097/CCM.0000000000003359. PMID: [30130262](http://pubmed.gov/30130262).
 1. Schuetz P, Birkhahn R, Sherwin R, et al. Serial Procalcitonin Predicts Mortality in Severe Sepsis Patients: Results From the Multicenter Procalcitonin MOnitoring SEpsis (MOSES) Study. Crit Care Med. 2017 Mar 2. doi: 10.1097/CCM.0000000000002321. PMID [28257335](http://pubmed.gov/28257335).
 2. Freund Y, Lemachatti N, Krastinova E, Van Laer M, Claessens YE, Avondo A,et al; French Society of Emergency Medicine Collaborators Group.. Prognostic Accuracy of Sepsis-3 Criteria for In-Hospital Mortality Among Patients With Suspected Infection Presenting to the Emergency Department. JAMA. 2017 Jan 17;317(3):301-308. PMID: [28114554](http://pubmed.gov/28114554).
 3. Williams JM, Greenslade JH, McKenzie JV, Chu K, Brown AF, Lipman J. SIRS, qSOFA and organ dysfunction: insights from a prospective database of emergency department patients with infection. Chest. 2016 Nov 19. PMID: [27876592](http://pubmed.gov/27876592)
