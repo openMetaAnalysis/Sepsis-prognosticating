@@ -46,6 +46,7 @@ References:
 None
 
 #### Studies undergoing assessment
+1. Shu E, Ives Tallman C, Frye W, Boyajian JG, Farshidpour L, Young M, Campagne D. Pre-hospital qSOFA as a predictor of sepsis and mortality. Am J Emerg Med. 2018 Sep 18. pii: S0735-6757(18)30759-9. doi: 10.1016/j.ajem.2018.09.025. PMID: [30322666](http://pubmed.gov/30322666).
 1.  Kievlan DR, Zhang LA, Chang CH, Angus DC, Seymour CW. Evaluation of Repeated Quick Sepsis-Related Organ Failure Assessment Measurements Among Patients With Suspected Infection. Crit Care Med. 2018 Aug 20. doi: 10.1097/CCM.0000000000003360. PMID: [30130261](http://pubmed.gov/30130261).
 1. Redfern OC, Smith GB, Prytherch DR, Meredith P, Inada-Kim M, Schmidt PE. A Comparison of the Quick Sequential (Sepsis-Related) Organ Failure Assessment Score and the National Early Warning Score in Non-ICU Patients With/Without Infection. Crit Care Med. 2018 Aug 20. doi: 10.1097/CCM.0000000000003359. PMID: [30130262](http://pubmed.gov/30130262).
 1. Goulden R, Hoyle MC, Monis J, Railton D, Riley V, Martin P, Martina R, Nsutebu E. qSOFA, SIRS and NEWS for predicting inhospital mortality and ICU admission in emergency admissions treated as sepsis. Emerg Med J. 2018 Jun;35(6):345-349. doi: 10.1136/emermed-2017-207120. PMID: [29467173](http://pubmed.gov/29467173).
