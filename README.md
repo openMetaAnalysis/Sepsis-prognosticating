@@ -46,6 +46,7 @@ References:
 None
 
 #### Studies undergoing assessment
+1. Choi A, Park YS, Shin TG, Han KS, Kim WY, Kang GH, Kim K, Choi SH, Lim TH, Suh GJ; Korean Shock Society (KoSS) Investigators. Prognostic performance of disease severity scores in patients with septic shock presenting to the emergency department. Am J Emerg Med. 2018 Aug 21. PMID: [30220642](http://pubmed.gov/30220642). 
 1. Shu E, Ives Tallman C, Frye W, Boyajian JG, Farshidpour L, Young M, Campagne D. Pre-hospital qSOFA as a predictor of sepsis and mortality. Am J Emerg Med. 2018 Sep 18. pii: S0735-6757(18)30759-9. doi: 10.1016/j.ajem.2018.09.025. PMID: [30322666](http://pubmed.gov/30322666).
 1.  Kievlan DR, Zhang LA, Chang CH, Angus DC, Seymour CW. Evaluation of Repeated Quick Sepsis-Related Organ Failure Assessment Measurements Among Patients With Suspected Infection. Crit Care Med. 2018 Aug 20. doi: 10.1097/CCM.0000000000003360. PMID: [30130261](http://pubmed.gov/30130261).
 1. Redfern OC, Smith GB, Prytherch DR, Meredith P, Inada-Kim M, Schmidt PE. A Comparison of the Quick Sequential (Sepsis-Related) Organ Failure Assessment Score and the National Early Warning Score in Non-ICU Patients With/Without Infection. Crit Care Med. 2018 Aug 20. doi: 10.1097/CCM.0000000000003359. PMID: [30130262](http://pubmed.gov/30130262).
