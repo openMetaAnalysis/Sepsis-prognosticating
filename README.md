@@ -35,6 +35,7 @@ References:
 
 ### Diagnostic test assessments
 #### New studies *not* included in the most recent review above
+1. Abdullah SMOB, Grand J, Sijapati A, Puri PR, Nielsen FE. qSOFA is a useful prognostic factor for 30-day mortality in infected patients fulfilling the SIRS criteria for sepsis. Am J Emerg Med. 2019 May 21. PMID: [31171438](http://pubmed.gov/31171438).
 1. Usman OA, Usman AA, Ward MA. Comparison of SIRS, qSOFA, and NEWS for the early identification of sepsis in the Emergency Department. Am J Emerg Med. 2018 Nov 7. PMID: [30470600](http://pubmed.gov/30470600).
 1. Redfern OC, Smith GB, Prytherch DR, Meredith P, Inada-Kim M, Schmidt PE. A Comparison of the Quick Sequential (Sepsis-Related) Organ Failure Assessment Score and the National Early Warning Score in Non-ICU Patients With/Without Infection. Crit Care Med. 2018 Dec;46(12):1923-1933. doi: 10.1097/CCM.0000000000003359. PMID: [30130262](http://pubmed.gov/30130262).
 1. Schuetz P, Birkhahn R, Sherwin R, et al. Serial Procalcitonin Predicts Mortality in Severe Sepsis Patients: Results From the Multicenter Procalcitonin MOnitoring SEpsis (MOSES) Study. Crit Care Med. 2017 Mar 2. doi: 10.1097/CCM.0000000000002321. PMID [28257335](http://pubmed.gov/28257335).
