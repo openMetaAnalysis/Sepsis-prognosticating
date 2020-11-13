@@ -48,6 +48,7 @@ References:
 None
 
 #### Studies undergoing assessment
+1. Usul E, Korkut S, Kayipmaz AE, Halici A, Kavalci C. The role of the quick sequential organ failure assessment score (qSOFA) and modified early warning score (MEWS) in the pre-hospitalization prediction of sepsis prognosis. Am J Emerg Med. 2020 Sep 30:S0735-6757(20)30844-5. doi: 10.1016/j.ajem.2020.09.049. Epub ahead of print. PMID: [33071081](http://pubmed.gov/33071081)
 1. Abdullah SMOB, Sørensen RH, Dessau RBC, Sattar SMRU, Wiese L, Nielsen FE. Prognostic accuracy of qSOFA in predicting 28-day mortality among infected patients in an emergency department: a prospective validation study. Emerg Med J. 2019 Dec;36(12):722-728. doi: 10.1136/emermed-2019-208456. Epub 2019 Oct 25. PMID: [31653692](http://pubmed.gov/31653692).
 1. Shim BS, Yoon YH, Kim JY, Cho YD, Park SJ, Lee ES, Choi SH. Clinical Value of Whole Blood Procalcitonin Using Point of Care Testing, Quick Sequential Organ Failure Assessment Score, C-Reactive Protein and Lactate in Emergency Department 
 Patients with Suspected Infection. J Clin Med. 2019 Jun 12;8(6). PMID: [31212806](http://pubmed.gov/31212806).
